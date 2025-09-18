@@ -1,5 +1,5 @@
 # DS-Editor
-Normalize phone photo from lens shading effect (external lens on phone mods)
+Such photo editor to normalize phone's photo from lens shading effect (external lens mods)
 
 This application is provided free of charge for personal use only. All rights remain with the developer. You may not modify, redistribute, sell, or reverse engineer this APK. By downloading and using the application, you agree to use it “as is” without any warranties or guarantees from the developer.
 
