@@ -1,3 +1,5 @@
+![DS Editor Preview](ds-editor-app-preview.jpg)
+
 DS-Editor
 A photo editor designed to normalize images affected by lens shading artifacts commonly found on external lens modified smartphones (direct sensor mods).
 
